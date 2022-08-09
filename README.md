@@ -1,6 +1,5 @@
-## Eai, beleza? Meu nome é Willian Marques, sou desenvolvedor de software e Instrutor de Tecnologia
+## Eai, beleza? Meu nome é Willian Marques, sou desenvolvedor de software e Professor de tecnologia!
 
-@betrybe :green_heart:
 
 <div align="center">
   <a href="https://github.com/willianmarquess">
