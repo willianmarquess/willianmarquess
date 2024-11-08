@@ -8,7 +8,7 @@ Senior Software Developer and Professor
 * ✉️  You can contact me at [willian.goncalves4@gmail.com](mailto:willian.goncalves4@gmail.com)
 * 🚀  I'm currently working on [Sensedia](http://www.sensedia.com.br/)
 * 🧠  I'm learning Rust and other things
-* 🤝  I'm open to collaborating on open-metin2 project
+* 🤝  I'm collaborating on the open-metin2 project
 
 <a href="https://www.github.com/willianmarquess" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/willianmarquess?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
